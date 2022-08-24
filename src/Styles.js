@@ -4,9 +4,11 @@ import styled from "styled-components";
 export const About = styled.div`
   // CSS CODES
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   padding: 5rem 7rem;
+  width: 95%;
+  margin: 0 auto;
 `;
 
 export const Description = styled.div`
